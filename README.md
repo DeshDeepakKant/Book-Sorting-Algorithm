@@ -80,7 +80,8 @@ To get started with the project locally, follow these steps:
 
 2. **Navigate to the project directory:**
    ```bash
-   git clone https://github.com/yourusername/book-sorting-visualizer.git
+   cd book-sorting-visualizer
+
    
 
 3. **Open index.html in your browser to view the website:**
